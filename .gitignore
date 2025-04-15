@@ -1,0 +1,17 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Cursor temp files
+*.log
+*.tmp
+
+# Backup files
+*.bak
+*~
+*.backup
+
+# Local environment
+.env
+.env.local 

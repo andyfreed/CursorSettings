@@ -1,0 +1,10 @@
+{
+    "window.commandCenter": 1,
+    "php.validate.executablePath": "",
+    "grunt.autoDetect": "on",
+    "github.copilot.advanced": {
+        
+    },
+    "workbench.colorTheme": "Red",
+    "git.openRepositoryInParentFolders": "never"
+}
